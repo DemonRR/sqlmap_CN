@@ -274,7 +274,7 @@ Options:
     --web-root=WEBROOT  Web服务器的文档根目录(例如 "/var/www")
 
   混杂的:
-    这些选项不属于任何其他类别
+    这些选项不属于任何其他类别。
 
     -z MNEMONICS        使用短助记符(例如 "flu,bat,ban,tec=EU")
     --alert=ALERT       运行主机操作系统命令(s) SQL注入时发现
